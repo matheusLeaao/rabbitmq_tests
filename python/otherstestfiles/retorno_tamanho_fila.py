@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+
+# Retorno tamanho da fila rabbitmq , número de mensagens em determinada fila
+#
+# Github : matheusLeaao  <https://github.com/matheusLeaao>
+# @author Matheus Leão <mathegiov@hotmail.com>
+
+
 import pika
 #Conexao
 credentials     = pika.PlainCredentials('rabbitmq', 'rabbitmq') #...(user,pass)
