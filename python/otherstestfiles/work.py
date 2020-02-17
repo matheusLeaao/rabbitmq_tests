@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+# Works do rabbitmq, recebimento e execução das mensagens (CONSUMER MESSAGE BROKER)
+#
+# Github : matheusLeaao  <https://github.com/matheusLeaao>
+# @author Matheus Leão <mathegiov@hotmail.com>
+
+
 import pika
 import time
 
