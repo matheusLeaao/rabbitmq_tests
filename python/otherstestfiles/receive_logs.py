@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+# receive de textos de logs 
+#
+# Github : matheusLeaao  <https://github.com/matheusLeaao>
+# @author Matheus Leão <mathegiov@hotmail.com>
+
 
 import pika
 
