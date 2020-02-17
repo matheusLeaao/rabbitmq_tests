@@ -1,3 +1,8 @@
+# Apagar diretórios remotamente 
+#
+# Github : matheusLeaao  <https://github.com/matheusLeaao>
+# @author Matheus Leão <mathegiov@hotmail.com>
+
 #!/usr/bin/env python
 
 import pika
