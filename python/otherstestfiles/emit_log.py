@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# Teste logs rabbitmq 
+#
+# Github : matheusLeaao  <https://github.com/matheusLeaao>
+# @author Matheus Leão <mathegiov@hotmail.com>
 
 import pika
 import sys
