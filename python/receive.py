@@ -1,4 +1,4 @@
-# Apagar diretórios remotamente 
+# Teste conexão rabbitmq 
 #
 # Github : matheusLeaao  <https://github.com/matheusLeaao>
 # @author Matheus Leão <mathegiov@hotmail.com>
